@@ -625,7 +625,7 @@
  */
 //#define PIDTEMPBED
 
-//#define BED_LIMIT_SWITCHING
+//#define BED_LIMIT_SWITCHING //Explorer cette option.
 
 /**
  * Max Bed Power
